@@ -2,6 +2,7 @@ int option;
 int led = 13;
 int aroma = 11;
 int val=25;
+int led25=14;
 
 #include <OneWire.h>                
 #include <DallasTemperature.h>
